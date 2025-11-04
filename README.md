@@ -108,11 +108,6 @@ If you create a testbench (e.g., `votingMachine_tb.v`), include:
 
 ---
 
-## 📜 License
-
-This project is released under the **AICTE License** – free to use, modify, and distribute with attribution.
-
----
 
 **Keywords:** `Verilog`, `FPGA`, `Vivado`, `Voting Machine`, `Digital Systems`, `Mode Control`, `Debouncing`, `Vote Counter`
 
